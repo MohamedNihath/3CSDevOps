@@ -11,5 +11,5 @@ describe('Get /',()=>{
 
 })
 afterAll(()=>{
-    server.close
+    server.close();
 })
